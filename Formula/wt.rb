@@ -1,8 +1,8 @@
 class Wt < Formula
   desc "Multi-window git coordination: worktrees, claims, file-level collision detection"
   homepage "https://github.com/eharriett0/wt"
-  url "https://github.com/eharriett0/wt/archive/refs/tags/v0.1.34.tar.gz"
-  sha256 "96cd7edc66eb32f787abae351197f84a2a6498d15aed88cfd12be527bce8a8db"
+  url "https://github.com/eharriett0/wt/archive/refs/tags/v0.1.35.tar.gz"
+  sha256 "7cd7f1b06e695446d8a0ea1971596a28347fbd0cac52482cf5bdc516c6bce1e3"
   license "MIT"
   head "https://github.com/eharriett0/wt.git", branch: "main"
 
